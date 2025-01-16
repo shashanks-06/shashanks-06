@@ -1,13 +1,3 @@
-### Hi there 👋
-
-- 🔭 I have worked on Mini Projects as a Learner.
-- 🌱 I have completed my course of Full Stack Web Development - JavaScript [MERN].
-- 👯 I’m looking to collaborate on different Projects which will increase my Web Development Skills
-- 🌱 I'm Learning JAVA
-- 🌱 I'm Learning API Automation with RESTAssured
-- 🌱 I'm Learning WEB Automation with Selenium
-- 🔭 I'm working on Maven Projects along with TestNG and Allure Reporting
-
 <h1 align="center">Hi 👋, I'm Shashasnk Surjekar</h1>
 <h3 align="center">A passionate SDET from India</h3>
 
@@ -36,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanks-06&show_icons=true&locale=en" alt="shashanks-06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanks-06&" alt="shashanks-06" /></p>
